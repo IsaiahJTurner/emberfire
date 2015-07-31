@@ -402,3 +402,9 @@ button:hover {
 .bold {
   font-weight: bold;
 }
+
+.github {
+  float: right;
+  margin-right: 10px;
+  background-color: grey;
+}
